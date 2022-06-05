@@ -1,0 +1,23 @@
+* {
+    margin-left: 20px;
+}
+
+body {
+    background-color: rgb(255, 216, 184);
+    
+}
+    
+h1 {
+    background-color: #bf7617;
+}
+
+h2 {
+    background-color: #edc48f;
+}
+
+p, li {
+    font-size: 22px;
+    width: 50%;
+}
+
+
