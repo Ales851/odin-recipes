@@ -19,6 +19,7 @@ h2 {
 }
 
 p, li {
+    font-family: 'Merriweather', serif;
     font-size: 22px;
     width: 50%;
 }
